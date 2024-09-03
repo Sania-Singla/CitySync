@@ -1,4 +1,4 @@
-# CitySync - ## A Unified Platform for Inter-Departmental Cooperation
+# CitySync - A Unified Platform for Inter-Departmental Cooperation
 
 ## Project Overview
 
